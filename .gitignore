@@ -1,0 +1,42 @@
+# Node / Web
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+dist/
+build/
+.next/
+.out/
+coverage/
+.eslintcache
+
+# React Native / Expo
+.expo/
+.expo-shared/
+ios/Pods/
+ios/build/
+android/.gradle/
+android/app/build/
+android/build/
+
+# Java / Gradle
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+build/
+
+# Env & local config
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs/
+*.log
+*.pid
